@@ -4,7 +4,7 @@ Tested Version: v2022.3.29s (build num: 1894)
 
 ONLY STEAM VERSION SUPPORTED 
 
-To Include:
+Unlocks:
 ~Pets
 ~Hats
 ~Name Plates
