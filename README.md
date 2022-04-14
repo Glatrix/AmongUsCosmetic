@@ -8,10 +8,10 @@ To Include:
 ~Skins
 ~Visors
 
-#Usage
+# Usage
 Use any dll Injector. ex: Cheat Engine, or Process Hacker 2
 
-#Disclaimer
+# Disclaimer
 I do not affiliate with Innersloth.
 
 This is for education purposes only, I am not to
